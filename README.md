@@ -5,3 +5,4 @@
 
 
 Je suis actuellemnt en formation en école d'informatique 
+Actuellement je sais utilisé HTML5, CCS3, trello,GitHub(en coours d'apprentissage 😊) 
