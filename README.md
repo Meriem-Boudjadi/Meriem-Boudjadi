@@ -6,4 +6,4 @@
 
 Je suis actuellemnt en formation en école d'informatique.
 
-Actuellement je sais utilisé, Html5, CSS3 ,trello, GitHub(en cours d'apprentissage 😊) , canva , google chrome 
+Actuellement je sais utilisé, Vscode, Html5, CSS3 ,trello, GitHub(en cours d'apprentissage 😊) , canva , ainsi google chrome 
